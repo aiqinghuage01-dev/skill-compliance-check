@@ -1,0 +1,9 @@
+{
+  "name": "违禁违规审查",
+  "version": "1.0.0",
+  "description": "敏感行业文案违规扫描+风险分级+合规替换+一键输出合规版文案",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
