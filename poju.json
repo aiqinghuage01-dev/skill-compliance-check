@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 4,
+  "role": "法务",
+  "avatar": {
+    "style": "notionists",
+    "seed": "lawyer-compliance-strict"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "敏感行业违规扫描+风险分级+合规替换"
+}
